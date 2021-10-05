@@ -32,8 +32,8 @@ Opencore Version   0.6.2
 2.顺便借用来自@mraqkhan大侠分享的0.7.0版本的EFI作为模板修改符合自己硬件的EFI，一并感谢！
 
 
-### 下载请点击
+### 下载
 
 
 
-下载EFI
+下载EFI，请点击右侧“Release”
